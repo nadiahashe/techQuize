@@ -1,11 +1,14 @@
 # techQuize
 Description
+
 This repository contains a Tech Quiz application designed to help aspiring developers test their technical knowledge and improve their skills. The application is built using the MERN stack (MongoDB, Express.js, React, and Node.js). Users can take a quiz with ten random questions.
 
 This project has been enhanced with Cypress for both component and end-to-end (E2E) testing to ensure a seamless user experience and robust functionality.
 
 Features
+
 User Stories
+
 As an aspiring developer:
 I want to take a tech quiz so that I can test my knowledge and improve my skills.
 Acceptance Criteria
@@ -26,7 +29,9 @@ This project includes a Cypress test suite for validating both components and en
 
 
 Install Cypress as a development dependency.
+
 Configure Cypress for:
+
 Component Testing: Focused on individual UI components, ensuring each works as expected in isolation.
 End-to-End Testing: Validates the entire quiz workflow from start to finish. https://share.vidyard.com/watch/knaTwQinvRC5ymXMgGr2bB
 Installation
